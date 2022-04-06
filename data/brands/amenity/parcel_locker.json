@@ -304,11 +304,9 @@
       "tags": {
         "amenity": "parcel_locker",
         "brand": "Paczkomat InPost",
-        "brand:wikidata": "Q110970254",
+        "brand:wikidata": "Q3182097",
+        "brand:wikipedia": "pl:InPost",
         "operator": "InPost",
-        "operator:wikidata": "Q3182097",
-        "operator:wikipedia": "pl:InPost",
-        "parcel_pickup": "yes"
         "parcel_mail_in": "yes"
       }
     },
